@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Issue: Chart works finr, but jest breaks
+
+<img width="605" alt="image" src="https://github.com/rocsys/mui-x-charts-jest-issue-minimal-reproduction/assets/429676/ea9b334b-4444-4fa5-b91a-6cc110bd65e4">
+
+![image](https://github.com/rocsys/mui-x-charts-jest-issue-minimal-reproduction/assets/429676/22fc6d42-1d3f-47b4-8e48-585f8c75d4b2)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
