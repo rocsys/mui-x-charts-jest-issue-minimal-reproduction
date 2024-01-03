@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Issue: Chart works finr, but jest breaks
+# Issue: Chart works fine, but jest breaks
 
 <img width="605" alt="image" src="https://github.com/rocsys/mui-x-charts-jest-issue-minimal-reproduction/assets/429676/ea9b334b-4444-4fa5-b91a-6cc110bd65e4">
 
