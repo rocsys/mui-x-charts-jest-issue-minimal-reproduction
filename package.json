@@ -52,5 +52,17 @@
       "last 1 safari version"
     ]
   },
-  "license": "UNLICENSED"
+  "jest": {
+    "moduleNameMapper": {
+      "\\.svg": "<rootDir>/__mocks__/svg.js",
+      "\\.(css|sass)$": "<rootDir>/__mocks__/svg.js"
+    },
+    "transform": {
+      "^.+\\.(ts|tsx)?$": "ts-jest",
+      "^.+\\.(js|jsx)$": "babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/(?!(@mui/x-charts)/)"
+    ]
+  }
 }
